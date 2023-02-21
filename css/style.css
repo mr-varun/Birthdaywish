@@ -42,7 +42,7 @@ canvas#canvas {
 }
 
 div#beach {
-  background-image: url(../img/beachsil2.png);
+  background-image: url(../img/beachsil.png);
   /* background-size: cover; */
   background-position: bottom right;
   background-size: 1700px;
