@@ -1,6 +1,6 @@
 const endDate = "02 Mar 2023 11:59:59 PM"
 
-document.getElementById("end-date").innerText = endDate;
+// document.getElementById("end-date").innerText = endDate;
 const inputs = document.querySelectorAll("input")
 // const clock = () => {
 
